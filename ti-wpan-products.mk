@@ -4,7 +4,7 @@
 PRODUCT_PACKAGES += uim-sysfs \
 	bt_sco_app \
 	kfmapp     \
-        BluetoothSCOApp \
+        BluetoothMusic \
         FmRxApp \
         FmTxApp \
         FmService \
