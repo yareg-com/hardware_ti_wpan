@@ -5,7 +5,7 @@
 <string name="lblversion">Version:</string>
 <string name="txtversion">0.1</string>
 <string name="app_txhelp">Help</string>
-    <string name="Fm_Tx">FM Transmitter</string>
+    <string name="Fm_Tx">FM TX</string>
     <string name="app_name">TI\'s FM Radio Transmitter</string>
     <string name="btnOptions">Options</string>
     <string name="btnExit">Exit</string>
