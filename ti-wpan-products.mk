@@ -2,9 +2,7 @@
 # WiLink connectivity chip on OMAPx platforms.
 
 PRODUCT_PACKAGES += uim-sysfs \
-	bt_sco_app \
 	kfmapp     \
-        BluetoothMusic \
         FmRxApp \
         FmTxApp \
         FmService \
